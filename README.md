@@ -11,7 +11,7 @@ System Monitor version 0.9
 
 
 
-note: on linux remove 
+note: on linux remove
 
 #include "ncurses/ncurses.h" from main.c 
 
