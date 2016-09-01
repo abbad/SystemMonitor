@@ -11,8 +11,6 @@ Written by Ahmad Abbad
 
 - ./a.exe to start the program.
 
-- Always run in full screen. 
-
 
 
 
